@@ -1,0 +1,12 @@
+
+"invalidURLErrorMessage" = "The URL is invalid, check the input data.";
+"requestFailedErrorMessage" = "Failed to load stargazers. Please, try again.";
+"okActionTitle" = "OK";
+"invalidInputTitle" = "Invalid input.";
+"invalidInputMessage" = "Please enter both repository owner and repository name.";
+"repositoryOwnerLabelText" = "Repository Owner";
+"repositoryTextFieldPlaceholder" = "Enter owner name";
+"repositoryNameLabelText" = "Respository Name";
+"repositoryTextFieldPlacehilder" = "Enter repository name";
+"searchStargazersButtonTitle" = "Search Stargazers";
+"errorTitle" = "Error";
